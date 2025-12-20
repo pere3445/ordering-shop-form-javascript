@@ -3,6 +3,7 @@ let quantity = document.getElementById("quantity");
 let price = document.getElementById("price");
 let tax = document.getElementById("tax");
 let orderList = document.getElementById("orders");
+let totalPriceText = document.getElementById("total-price");
 let orders = [];
 
 function addOrder() {
@@ -31,4 +32,5 @@ function updateList() {
             totalPrice + order.quantity * order.price * (1 + order.tax / 100),
         0,
     );
+    totalPriceText.innerText = total;
 }
