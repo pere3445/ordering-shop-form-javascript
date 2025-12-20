@@ -9,7 +9,7 @@ let orders = [];
 function addOrder() {
     if (
         names.value &&
-        !isNaN(parseInt(quantity.value)) &&
+        !isNaN(parseInt(quantity.value, 10)) &&
         !isNaN(parseFloat(price.value)) &&
         !isNaN(parseFloat(tax.value))
     ) {
