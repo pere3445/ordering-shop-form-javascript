@@ -15,9 +15,9 @@ function addOrder() {
     ) {
         orders.push({
             names: names.value,
-            quantity: parseInt(quantity.value),
-            price: parseInt(price.value * 100) / 100,
-            tax: parseInt(tax.value * 100) / 100,
+            quantity: parseInt(quantity.value, 10),
+            price: parseInt(price.value * 100, 10) / 100,
+            tax: parseInt(tax.value * 100, 10) / 100,
         });
         names.value = "";
         quantity.value = "";
