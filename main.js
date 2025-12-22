@@ -2,8 +2,8 @@ const names = document.getElementById("name"); //order name
 const quantity = document.getElementById("quantity"); //order quantity
 const price = document.getElementById("price"); //order price
 const tax = document.getElementById("tax"); //order tax in percent
-const orderList = document.getElementById("orders"); //list of orders
-const orders = [];
+const orderList = document.getElementById("orders"); //list of orders element
+const orders = []; //list of orders
 
 window.addOrder = () => {
     //function to add order to list
